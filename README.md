@@ -1,2 +1,2 @@
 # MariamAkhvledianiHomework10
-reposition
+responsive
