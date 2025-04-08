@@ -1,0 +1,198 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  max-width: 858px;
+  margin: 0 auto;
+}
+.header-content {
+  background-color: #b2adad;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+}
+.header-div {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 27px;
+}
+.nav-list {
+  display: flex;
+  column-gap: 30px;
+}
+li a {
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+}
+
+.menu {
+  display: none;
+}
+.main-content {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 140px;
+}
+
+h1 {
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #21243d;
+  margin-bottom: 40px;
+}
+.main-par {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
+  color: #21243d;
+  margin-bottom: 38px;
+}
+.resume-btn {
+  width: 208px;
+  height: 47px;
+  border-radius: 2px;
+  background-color: #ff6464;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 9px 20px;
+}
+
+.info-section {
+  margin-top: 95px;
+  background-color: #edf7fa;
+}
+
+.info-header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 27px;
+}
+.info-wrapper {
+  display: flex;
+
+  justify-content: center;
+}
+.info-par {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 60px;
+  color: #21243d;
+}
+.view-all-link {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
+  color: #00a8cc;
+  margin-top: 27px;
+}
+.info-div {
+  margin-left: 25px;
+  margin-right: 25px;
+  background-color: #fff;
+  width: 400px;
+  height: 295px;
+  padding: 21px 24px;
+}
+.info-title {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 100%;
+  color: #21243d;
+  margin-bottom: 17px;
+  width: 374px;
+  height: 85px;
+}
+
+.info {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
+  color: #21243d;
+  margin-top: 11px;
+  width: 368px;
+  height: 117px;
+  opacity: 0.8;
+}
+.date-theme-div {
+  display: flex;
+}
+.date {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 100%;
+  color: #21243d;
+  margin-right: 26px;
+}
+.theme {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 100%;
+  color: #21243d;
+  margin-left: 26px;
+}
+.designe-dashboard,
+.vibrant-portraits,
+.malayalam-section {
+  display: flex;
+  margin-bottom: 66px;
+}
+.designe-header {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 60px;
+  color: #21243d;
+  margin-top: 15px;
+  margin-bottom: 22px;
+}
+.designe-text-div {
+  margin-left: 18px;
+}
+.dashboard-title,
+.vibrant-title,
+.malayalam-title {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 100%;
+  color: #21243d;
+  margin-bottom: 16px;
+}
+.date-type {
+  display: flex;
+}
+.date-div {
+  position: relative;
+}
+.date-number {
+  position: absolute;
+  top: 4px;
+  right: 8px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 900;
+}
+.designe-type {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 100%;
+  color: #8695a4;
+  margin-left: 36px;
+}
+.designe-info {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
+  color: #21243d;
+  margin-top: 36px;
+}
+.line {
+  border: 5px;
+  width: 858px;
+  background-color: #e0e0e0;
+}

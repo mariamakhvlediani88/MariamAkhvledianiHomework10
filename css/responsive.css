@@ -1,0 +1,63 @@
+@media (max-width: 500px) {
+  .header-div {
+    padding: 10px;
+  }
+
+  .header-nav {
+    display: none;
+  }
+  .menu {
+    display: block;
+    cursor: pointer;
+  }
+
+  .main-content {
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 0px 24px;
+    text-align: center;
+    row-gap: 30px;
+  }
+  h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .info-wrapper {
+    flex-direction: column;
+    row-gap: 17px;
+  }
+  .view-all-link {
+    display: none;
+  }
+  .info-par {
+    margin: 0px auto;
+  }
+  .info-title {
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 12px;
+  }
+  .designe-header {
+    margin: 0px auto;
+  }
+  .designe-dashboard,
+  .vibrant-portraits,
+  .malayalam-section {
+    flex-direction: column;
+    width: 344px;
+    height: 455px;
+    margin: 0px auto;
+    margin-bottom: 41px;
+  }
+  .dashboard-title,
+  .vibrant-title,
+  .malayalam-title {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .designe-photo,
+  .vibrant-photo,
+  .malayalam-photo {
+    margin-bottom: 17px;
+  }
+}
